@@ -1,0 +1,13 @@
+logout
+login
+user1
+login
+admin
+random
+logout
+login
+user
+create
+logout
+bid
+exit

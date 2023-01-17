@@ -1,0 +1,253 @@
+
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: New username: Type of user (admin, full-standard, buy-standard, sell-standard): Credit amount: New user successfully created!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: New username: Type of user (admin, full-standard, buy-standard, sell-standard): Credit amount: New user successfully created!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: User not in database!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: User: 
+Welcome user!
+User Type: FS
+Available Credit: 0.00$
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Amount of credit: Successfully added credit!
+Current credit amount: 22.00 for user
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Item name: Seller's username: No match found for item and user!
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Transaction not in options!
+
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Item name: Seller's username: No match found for item and user!
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Transaction not in options!
+
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: User not in database!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Goodbye!

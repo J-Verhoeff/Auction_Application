@@ -1,0 +1,58 @@
+
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Username: Cannot delete current user!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Username: User not found!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Username: User successfully deleted!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: Goodbye!

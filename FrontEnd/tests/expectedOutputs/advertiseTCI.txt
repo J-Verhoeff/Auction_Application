@@ -1,0 +1,163 @@
+
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Item name cannot be over 19 characters!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Minimum bid amount must be a number between 0 and 999.99!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Minimum bid amount must be a number between 0 and 999.99!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Minimum bid amount must be a number between 0 and 999.99!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Minimum bid amount must be a number between 0 and 999.99!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Minimum bid amount can only have 2 decimal places!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Number of days till auction end: Number of days till auction end must be a whole number between 1 and 100!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Number of days till auction end: Number of days till auction end must be a whole number between 1 and 100!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Number of days till auction end: Number of days till auction end must be a whole number between 1 and 100!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Number of days till auction end: Number of days till auction end must be a whole number between 1 and 100!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Item name: Minimum Bid: Number of days till auction end: Advertisement successfully created!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: New username: Type of user (admin, full-standard, buy-standard, sell-standard): Credit amount: New user successfully created!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: User not in database!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Transaction not in options!
+
+
+Options:
+	login
+Transaction: Goodbye!

@@ -1,0 +1,136 @@
+
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Credit amount must be a number between 0.01 and 1000.00!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Credit amount must be a number between 0.01 and 1000.00!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Username: User not found!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Username: Successfully added credit!
+Current credit amount: 200.00 for user
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Username: Successfully added credit!
+Current credit amount: 1000.00 for admin
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Amount of credit: Username: Successfully added credit!
+Current credit amount: 900.00 for user
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome user!
+User Type: FS
+Available Credit: 0.00$
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: Amount of credit: Successfully added credit!
+Current credit amount: 100.00 for user
+
+Options:
+	logout
+	advertise
+	bid
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: Goodbye!

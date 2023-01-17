@@ -1,0 +1,7 @@
+00 test0
+01 newUser         AA 000100.00
+02 test2
+03 test3
+04 test4
+05 test5
+06 test6

@@ -1,0 +1,7 @@
+*.exe
+.vscode
+.git
+dailyTransactions
+resources
+tests/results
+tests/outputs

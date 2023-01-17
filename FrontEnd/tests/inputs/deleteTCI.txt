@@ -1,0 +1,10 @@
+login
+admin
+delete
+admin
+delete
+userNA
+delete
+user
+logout
+exit

@@ -1,0 +1,78 @@
+
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: User: 
+Welcome admin!
+User Type: AA
+Available Credit: 100.00$
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Buyer's username: Buyer not a user!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Buyer's username: Seller's username: Seller not a user!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Buyer's username: Seller's username: Amount of credit: Amount of credit must be between 0 and 999,999!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Buyer's username: Seller's username: Amount of credit: Insufficient amount of credit in Seller's account!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: Buyer's username: Seller's username: Amount of credit: Successfully refunded buyer!
+
+Options:
+	logout
+	create
+	delete
+	advertise
+	bid
+	refund
+	addcredit
+Transaction: 
+Welcome to the Auction App!
+Start entering transactions
+To exit the application type 'exit'
+
+Options:
+	login
+Transaction: Goodbye!
